@@ -1,3 +1,3 @@
 # Hi there!
 
-[My latest resume here]([https://duckduckgo.com](https://davidecapone.github.io/resume/) "").
+[My latest resume here](https://davidecapone.github.io/resume/).
